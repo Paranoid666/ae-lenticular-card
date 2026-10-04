@@ -1,0 +1,4 @@
+interface:
+  display_name: "AE 人物动态光栅卡"
+  short_description: "从原照片生成可替换背景，制作人物动画、场景切换与主题特效，交付工程和视频"
+  default_prompt: "使用 $ae-lenticular-card，分析我的原照片主题并生成合适的可替换背景，制作人物动画与主题特效，保留可编辑工程并验证最终视频。"
